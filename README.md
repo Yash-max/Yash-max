@@ -18,3 +18,5 @@
 
 # 🐍Snake Eating my contributions:
 ![snake gif](https://github.com/Yash-max/Yash-max/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only) 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
