@@ -12,6 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-max&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # 🐍Snake Eating my contributions:
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg
+https://github.com/Yash-max/Yash-max/blob/output/github-contribution-grid-snake.svg
 ---
 [![](https://visitcount.itsvg.in/api?id=Yash-max&icon=0&color=0)](https://visitcount.itsvg.in)
