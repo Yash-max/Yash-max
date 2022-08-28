@@ -17,6 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=Yash-max&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🐍Snake Eating my contributions:
-<!-- ![snake gif](https://github.com/Yash-max/Yash-max/blob/output/github-contribution-grid-snake.svg) -->
-![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only) 
-![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Yash-max/Yash-max/blob/output/github-contribution-grid-snake.svg)
